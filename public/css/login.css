@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    margin-top: 20vh;
+    margin-bottom: 30px;
+
+}
+input{
+    font-size: 1rem;
+    width: 300px;
+    padding: 6px 2px; 
+    margin: 10px 0 10px 0;
+}
+.sub{
+    background-color:#E21818;
+    cursor: pointer;
+}
+
+form{
+    text-align: center;
+    border: 5px solid #00235B;
+    padding: 20px;
+    background-color: #A5D7E8;
+}
